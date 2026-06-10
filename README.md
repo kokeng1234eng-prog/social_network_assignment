@@ -1,6 +1,6 @@
 # Study Group Messaging Network Analysis
 
-This project visualises a social network of 12 study group members.  
+This project visualises a social network of 13 study group members.  
 **Nodes** = people. **Edges** = messaging interactions. **Edge weight** = number of messages.
 
 ## How to run locally
